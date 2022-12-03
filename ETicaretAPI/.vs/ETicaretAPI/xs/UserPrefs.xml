@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{85D46E5E-0FE1-4331-8DF6-633A010C10AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/ETicaretAPI.API/appsettings.json">
+    <Files>
+      <File FileName="Infrastucture/ETicaretAPI.Persistence/Contexts/ETicaretAPIDbContext.cs" Line="1" Column="1" />
+      <File FileName="Presentation/ETicaretAPI.API/appsettings.json" Line="6" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ETicaretAPI" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="ETicaretAPI.Application" expanded="True">
+                <Node name="ViewModels" expanded="True">
+                  <Node name="Products" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="ETicaretAPI.Domain" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                </Node>
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastucture" expanded="True">
+              <Node name="ETicaretAPI.Infrastucture" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                  <Node name="ProjectDependencies" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="ETicaretAPI.Persistence" expanded="True" selected="True">
+                <Node name="Contexts" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="ETicaretAPI.API" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Presentation.ETicaretAPI.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
