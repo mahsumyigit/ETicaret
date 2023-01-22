@@ -29,6 +29,15 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Core\ETicaretAPI.Application\ETicaretAPI.Application.csproj" />
     <ProjectReference Include="..\..\Infrastucture\ETicaretAPI.Persistence\ETicaretAPI.Persistence.csproj" />
+    <ProjectReference Include="..\..\Infrastucture\ETicaretAPI.Infrastucture\ETicaretAPI.Infrastucture.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
 </Project>

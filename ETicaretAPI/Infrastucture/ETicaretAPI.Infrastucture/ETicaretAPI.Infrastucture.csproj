@@ -10,4 +10,14 @@
     <ProjectReference Include="..\..\Core\ETicaretAPI.Application\ETicaretAPI.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Filters\" />
+    <None Remove="Services\" />
+    <None Remove="StaticServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Filters\" />
+    <Folder Include="Services\" />
+    <Folder Include="StaticServices\" />
+  </ItemGroup>
 </Project>

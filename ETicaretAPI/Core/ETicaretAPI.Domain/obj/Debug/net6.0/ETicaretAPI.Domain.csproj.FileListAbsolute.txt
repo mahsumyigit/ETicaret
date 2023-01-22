@@ -22,3 +22,15 @@ C:/Users/Iksap/Desktop/ETicaretUygulaması/ETicaretAPI/Core/ETicaretAPI.Domain/o
 /Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/refint/ETicaretAPI.Domain.dll
 /Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.pdb
 /Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ref/ETicaretAPI.Domain.dll
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net6.0/ETicaretAPI.Domain.deps.json
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net6.0/ETicaretAPI.Domain.dll
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net6.0/ETicaretAPI.Domain.pdb
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.csproj.AssemblyReference.cache
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.AssemblyInfoInputs.cache
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.AssemblyInfo.cs
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.dll
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/refint/ETicaretAPI.Domain.dll
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.pdb
+/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ref/ETicaretAPI.Domain.dll

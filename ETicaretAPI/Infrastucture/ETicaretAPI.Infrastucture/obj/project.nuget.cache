@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CmS2P0jb6c5kZx26gevYXN+vSUm/UkUG5Sku+XK8+zjPc+pdPrrTUFpUHTXV/ooHO2BtkvC3p7XN6361p2Y4LA==",
+  "dgSpecHash": "km47Zf6MIBz30cazSiobrRLD5CBuL04Xl0SVTXfYyi1g1uC3fLkGxwK90oN7HuUfhYxTTGnNed9A0dKX0pFMsA==",
   "success": true,
-  "projectFilePath": "/Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Infrastucture/ETicaretAPI.Infrastucture/ETicaretAPI.Infrastucture.csproj",
+  "projectFilePath": "/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Infrastucture/ETicaretAPI.Infrastucture/ETicaretAPI.Infrastucture.csproj",
   "expectedPackageFiles": [
+    "/Users/yigit/.nuget/packages/fluentvalidation/11.4.0/fluentvalidation.11.4.0.nupkg.sha512",
+    "/Users/yigit/.nuget/packages/fluentvalidation.aspnetcore/11.2.2/fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "/Users/yigit/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.4.0/fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "/Users/yigit/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/yigit/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "/Users/yigit/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0/microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",

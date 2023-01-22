@@ -22,4 +22,14 @@
     <ProjectReference Include="..\..\Core\ETicaretAPI.Application\ETicaretAPI.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Repositories\File\" />
+    <None Remove="Repositories\InvoiceFile\" />
+    <None Remove="Repositories\ProductImageFile\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\File\" />
+    <Folder Include="Repositories\InvoiceFile\" />
+    <Folder Include="Repositories\ProductImageFile\" />
+  </ItemGroup>
 </Project>

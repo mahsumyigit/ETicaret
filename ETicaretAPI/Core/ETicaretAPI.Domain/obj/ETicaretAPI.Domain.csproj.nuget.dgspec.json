@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {}
+    "/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {}
   },
   "projects": {
-    "/Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
+    "/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+        "projectUniqueName": "/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
         "projectName": "ETicaretAPI.Domain",
-        "projectPath": "/Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+        "projectPath": "/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
         "packagesPath": "/Users/yigit/.nuget/packages/",
-        "outputPath": "/Users/yigit/Downloads/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/",
+        "outputPath": "/Users/yigit/Desktop/ETicaretUygulamasç/ETicaretAPI/Core/ETicaretAPI.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yigit/.nuget/NuGet/NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
