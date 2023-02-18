@@ -11,6 +11,9 @@
     <PackageReference Include="FluentValidation" Version="11.4.0" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.4.0" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,18 +27,55 @@
     <None Remove="FluentValidation.DependencyInjectionExtensions" />
     <None Remove="FluentValidation.AspNetCore" />
     <None Remove="RequestParameters\" />
-    <None Remove="Services\" />
     <None Remove="Repositories\File\" />
     <None Remove="Repositories\ProductImageFile\" />
     <None Remove="Repositories\InvoiceFile\" />
+    <None Remove="Abstractions\" />
+    <None Remove="Abstractions\Storage\" />
+    <None Remove="Abstractions\Storage\Local\" />
+    <None Remove="Abstractions\Storage\Azure\" />
+    <None Remove="MediatR" />
+    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Features\" />
+    <None Remove="Features\Commands\" />
+    <None Remove="Features\Commands\Product\" />
+    <None Remove="Features\Queries\" />
+    <None Remove="Features\Queries\Product\" />
+    <None Remove="Features\Queries\Product\GetAllProduct\" />
+    <None Remove="Features\Queries\Product\GetByIdProduct\" />
+    <None Remove="Features\Commands\Product\UpdateProduct\" />
+    <None Remove="Features\Commands\Product\RemoveProduct\" />
+    <None Remove="Features\Queries\Product\ProductImageFile\" />
+    <None Remove="Features\Queries\Product\ProductImageFile\GetProductImages\" />
+    <None Remove="Microsoft.AspNetCore.Http" />
+    <None Remove="Features\Commands\ProductImageFile\" />
+    <None Remove="Features\Queries\ProductImageFile\" />
+    <None Remove="Features\Queries\ProductImageFile\GetProductImages\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Validators\" />
     <Folder Include="Validators\Products\" />
     <Folder Include="RequestParameters\" />
-    <Folder Include="Services\" />
     <Folder Include="Repositories\File\" />
     <Folder Include="Repositories\ProductImageFile\" />
     <Folder Include="Repositories\InvoiceFile\" />
+    <Folder Include="Abstractions\" />
+    <Folder Include="Abstractions\Storage\" />
+    <Folder Include="Abstractions\Storage\Local\" />
+    <Folder Include="Abstractions\Storage\Azure\" />
+    <Folder Include="Features\" />
+    <Folder Include="Features\Commands\" />
+    <Folder Include="Features\Commands\Product\" />
+    <Folder Include="Features\Queries\" />
+    <Folder Include="Features\Queries\Product\" />
+    <Folder Include="Features\Queries\Product\GetAllProduct\" />
+    <Folder Include="Features\Queries\Product\GetByIdProduct\" />
+    <Folder Include="Features\Commands\Product\UpdateProduct\" />
+    <Folder Include="Features\Commands\Product\RemoveProduct\" />
+    <Folder Include="Features\Queries\Product\ProductImageFile\" />
+    <Folder Include="Features\Queries\Product\ProductImageFile\GetProductImages\" />
+    <Folder Include="Features\Commands\ProductImageFile\" />
+    <Folder Include="Features\Queries\ProductImageFile\" />
+    <Folder Include="Features\Queries\ProductImageFile\GetProductImages\" />
   </ItemGroup>
 </Project>

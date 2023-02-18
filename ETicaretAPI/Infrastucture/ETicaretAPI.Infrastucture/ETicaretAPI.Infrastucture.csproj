@@ -14,10 +14,24 @@
     <None Remove="Filters\" />
     <None Remove="Services\" />
     <None Remove="StaticServices\" />
+    <None Remove="Services\Storage\" />
+    <None Remove="Services\Storage\Local\" />
+    <None Remove="Services\Storage\AWS\" />
+    <None Remove="Services\Storage\Azure\" />
+    <None Remove="Enums\" />
+    <None Remove="Azure.Storage.Blobs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Filters\" />
     <Folder Include="Services\" />
     <Folder Include="StaticServices\" />
+    <Folder Include="Services\Storage\" />
+    <Folder Include="Services\Storage\Local\" />
+    <Folder Include="Services\Storage\AWS\" />
+    <Folder Include="Services\Storage\Azure\" />
+    <Folder Include="Enums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.14.1" />
   </ItemGroup>
 </Project>
